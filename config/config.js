@@ -43,8 +43,8 @@ var config = {
 			disabled: false,
 			config: {
 				apikey: "5459c758641a7c9d8edaa423e9962a47",
-				latitude: "40.453368",
-				longitude: "-87.054179",
+				latitude: "40.424",
+				longitude: "-86.929",
 				iconset: "4c",
 				units: "us",
 				forecastLayout: "table",
