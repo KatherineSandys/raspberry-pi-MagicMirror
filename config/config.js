@@ -33,7 +33,7 @@ var config = {
 				timeFormat: "12",
 				showPeriodUpper: "true"
 				}
-			
+
 		},
 		{
 			module: "MMM-DarkSkyForecast",
@@ -78,11 +78,11 @@ var config = {
 			position: "fullscreen_below",
 			config:{
 				source: "/r/SkyPorn",
-				slideInterval: 10 * 60 *1000,
+				slideInterval: 5 * 60 *1000, // Change slides every 5 minutes
 				orientaion: "horizontal",
 			},
 		},
-		
+
 	]
 
 };
